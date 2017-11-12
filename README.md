@@ -26,7 +26,7 @@ Live DEMO [here](http://angularexampleapp.com/)!
 
 ## Usage
 
-**Warning: we strongly recommend node >=v6.9.0 and npm >=3.0.0**
+**Warning: we VERY strongly recommend node >=v6.9.0 and npm >=3.0.0**
 
 `npm i` - Installs everything needed
 
